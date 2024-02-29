@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "../../Serious Java"
+		},
+		{
+			"path": "../../Learn JS"
+		},
+		{
+			"path": "../../PASSING OUT  PROJECT"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../traing"
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501,
+		"liveServer.settings.multiRootWorkspaceName": "PASSING OUT  PROJECT"
+	}
+}

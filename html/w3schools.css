@@ -1,0 +1,18 @@
+/* *{
+ padding: 0;
+ margin: 0;
+ box-sizing: border-box;
+} */
+/* #screen{
+    margin-top: 30px;
+    height: 100px;
+    width: 100vh;
+    border: 2px solid black;
+} */
+
+#iconContainer{
+    display: none;
+}
+#svg1{
+    display: none;
+}
